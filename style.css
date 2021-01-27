@@ -1,0 +1,27 @@
+﻿
+.box-left {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.box-right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.message-boxR {
+  padding: 0.5em 1em;
+  margin: 2em 0;
+  border-radius: 10px;
+  background:yellowgreen;
+  border:solid 3px yellowgreen;
+}
+
+.message-boxL {
+  padding: 0.5em 1em;
+  margin: 2em 0;
+  border-radius: 10px;
+  background:white;
+  border:solid 3px black;
+}
+
